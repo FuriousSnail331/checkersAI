@@ -1,0 +1,3 @@
+import checgame
+
+checgame.startgame()
