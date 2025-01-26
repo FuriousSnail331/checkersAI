@@ -1,3 +1,0 @@
-import checgame
-
-checgame.startgame()
